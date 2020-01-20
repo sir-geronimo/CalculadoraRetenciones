@@ -8,9 +8,6 @@
       <e p="bin" t="ExcludeRecursive" />
       <e p="CalculadoraRetenciones.csproj" t="IncludeRecursive" />
       <e p="CalculadoraRetenciones.sln" t="IncludeFlat" />
-      <e p="Form1.cs" t="Include" />
-      <e p="Form1.Designer.cs" t="Include" />
-      <e p="Form1.resx" t="Include" />
       <e p="MainForm.cs" t="Include" />
       <e p="MainForm.Designer.cs" t="Include" />
       <e p="MainForm.resx" t="Include" />
@@ -24,6 +21,7 @@
         <e p="Settings.Designer.cs" t="Include" />
         <e p="Settings.settings" t="Include" />
       </e>
+      <e p="README.md" t="Include" />
     </e>
   </component>
 </project>
